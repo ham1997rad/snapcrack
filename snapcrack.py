@@ -12,7 +12,7 @@ import threading
 
 
 try:
-    targetusername = sys.argv[1]
+   h.shwaheen = sys.argv[1]
 except:
     print(" [ ! | SYNTAX ERROR ] $ python3 snapcrack.py < username > < /path/to/passlist.txt > < # Threads > ")
 try:
@@ -38,7 +38,7 @@ print("████████████████████████�
 print("█                       SNAPCHAT CRACKER BY A HOT TRANS GIRL                         █")
 print("██████████████████████████████████████████████████████████████████████████████████████")
 
-print(f"[░]Now attempting to crack: {targetusername}")
+print(f"[░]Now attempting to crack: {h.shwaheen}")
 
 # Calling class 'Snapchat' from pysnap.__init__
 proxy = ''
